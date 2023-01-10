@@ -30,3 +30,5 @@ const wnba_player_data = `{
         }
     ]
 }`;
+
+console.log(wnba_player_data);
