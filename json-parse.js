@@ -31,4 +31,6 @@ const wnba_player_data = `{
     ]
 }`;
 
-console.log(wnba_player_data);
+const obj = JSON.parse(wnba_player_data);
+
+console.log(obj);
