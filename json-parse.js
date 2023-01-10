@@ -31,6 +31,11 @@ const wnba_player_data = `{
     ]
 }`;
 
-const obj = JSON.parse(wnba_player_data);
+const data = JSON.parse(wnba_player_data);
 
-console.log(obj);
+console.log(data);
+
+for (let i = 0; i < data.players.length; i++) {
+    let player = data.players[i].points_per_game;
+    console.log(player);
+}
