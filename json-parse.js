@@ -39,3 +39,16 @@ for (let i = 0; i < data.players.length; i++) {
     let player = data.players[i].points_per_game;
     console.log(player);
 }
+
+// Some quick notes about data types
+const example_numbers = [7, 42, 9001, 8.98, 29, 3.14];
+
+// To get ONE item out of the array, we use the index
+console.log(example_numbers[0]); // will log 7
+
+// JavaScript Objects - remember key value
+let example_object = {"name":"Arlin"};
+
+// To get values out of JavaScript Object, we need the key
+console.log(example_object['name']);
+console.log(example_object.name); // dot notation
