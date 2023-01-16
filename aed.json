@@ -1,0 +1,484 @@
+{
+    "d": [
+        {
+            "PartitionKey": "062a33a3-41b7-480e-ae52-192044651772",
+            "RowKey": "b8d5206b-6eb2-4325-9b9e-5e9fd64f224e",
+            "Timestamp": "2019-11-22T14:48:16.0952297Z",
+            "entityid": "062a33a3-41b7-480e-ae52-192044651772",
+            "name_of_city_facility": "Facilities/Parks Admin Bldg",
+            "address": "1101 Ave P N",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located in the main lobby"
+        },
+        {
+            "PartitionKey": "0c8213a3-f9df-48cf-a7ba-684fe1e17445",
+            "RowKey": "f5259044-ab72-41e0-b681-1e2fa953a4ed",
+            "Timestamp": "2019-11-22T14:48:16.9776464Z",
+            "entityid": "0c8213a3-f9df-48cf-a7ba-684fe1e17445",
+            "name_of_city_facility": "Saskatoon Light & Power",
+            "address": "322 Brand Road",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Ask at our front desk"
+        },
+        {
+            "PartitionKey": "0f438382-ceaf-4e9a-9a24-720e81967b27",
+            "RowKey": "0249ca1a-66e8-495a-aa8f-bf11364fe151",
+            "Timestamp": "2019-11-22T14:48:16.0853978Z",
+            "entityid": "0f438382-ceaf-4e9a-9a24-720e81967b27",
+            "name_of_city_facility": "Francis Morrison Library",
+            "address": "311 23rd St E",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located at the main service desk, ask staff for assistance"
+        },
+        {
+            "PartitionKey": "1055c3be-3c80-4ad2-a45f-2717b0c65b74",
+            "RowKey": "8b9041a8-2071-49a0-9fa8-fe90a19f0d0b",
+            "Timestamp": "2019-11-22T14:48:16.8687878Z",
+            "entityid": "1055c3be-3c80-4ad2-a45f-2717b0c65b74",
+            "name_of_city_facility": "Cliff Wright Branch Library",
+            "address": "1635 McKercher Dr",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located behind service desk"
+        },
+        {
+            "PartitionKey": "1d80d965-69e4-4318-8842-8d456be313c3",
+            "RowKey": "4251c233-b8cb-4334-bbe6-54374962169c",
+            "Timestamp": "2019-11-22T14:48:16.4065241Z",
+            "entityid": "1d80d965-69e4-4318-8842-8d456be313c3",
+            "name_of_city_facility": "Library on 20th Street Branch",
+            "address": "100 - 219 Ave K South",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located behind service desk"
+        },
+        {
+            "PartitionKey": "1da1700b-e091-44c9-ba27-b3eabedcb7b6",
+            "RowKey": "d66fa3ef-ce0b-40d1-9b43-9e0be4961105",
+            "Timestamp": "2019-11-22T14:48:16.5663556Z",
+            "entityid": "1da1700b-e091-44c9-ba27-b3eabedcb7b6",
+            "name_of_city_facility": "Mayfair Public Library",
+            "address": "602 33rd St W",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "On the wall at the entrance to the staff workroom"
+        },
+        {
+            "PartitionKey": "23180f9d-c797-4e91-8177-4272f76b48ee",
+            "RowKey": "37e1f6ac-c8cf-4bbc-adf9-2ab0de49857f",
+            "Timestamp": "2019-11-22T14:48:16.5762641Z",
+            "entityid": "23180f9d-c797-4e91-8177-4272f76b48ee",
+            "name_of_city_facility": "Lawson Civic Centre",
+            "address": "225 Primrose Dr",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located at front desk"
+        },
+        {
+            "PartitionKey": "2c7dcb9d-1c21-4701-b3f1-cb41bde0e5e1",
+            "RowKey": "da4d626a-8f51-45b0-82da-5424ce2e32d1",
+            "Timestamp": "2019-11-22T14:48:16.4261212Z",
+            "entityid": "2c7dcb9d-1c21-4701-b3f1-cb41bde0e5e1",
+            "name_of_city_facility": "Lathey Pool",
+            "address": "815 Taylor St E",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "First aid room, ask Cashier for help"
+        },
+        {
+            "PartitionKey": "2d767c22-2c45-45d7-ab9b-354c036352b3",
+            "RowKey": "826d9646-8555-4674-80ac-884d9f3fdb94",
+            "Timestamp": "2019-11-22T14:48:16.8185948Z",
+            "entityid": "2d767c22-2c45-45d7-ab9b-354c036352b3",
+            "name_of_city_facility": "Shaw Centre",
+            "address": "122 Bowlt Cres",
+            "number_of_aed_units": "2",
+            "how_to_access_aed": "1 is accessible at the Front Kiosk and 1 in the Lifeguard Room"
+        },
+        {
+            "PartitionKey": "310e87d7-d036-4013-a80e-1e68008feeac",
+            "RowKey": "744a40a8-654a-4fd0-8617-c35604362017",
+            "Timestamp": "2019-11-22T14:48:16.3383158Z",
+            "entityid": "310e87d7-d036-4013-a80e-1e68008feeac",
+            "name_of_city_facility": "Kinsmen Arena",
+            "address": "1405 Ave P S",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located on the wall at the end of the dressing room aisle beside dressing room #6 (north west corner), publically accessible"
+        },
+        {
+            "PartitionKey": "3265c18d-5e2c-49a5-8d3f-58f062b717cb",
+            "RowKey": "001d81ed-acbc-4e69-b324-49c402fb202c",
+            "Timestamp": "2019-11-22T14:48:16.2819839Z",
+            "entityid": "3265c18d-5e2c-49a5-8d3f-58f062b717cb",
+            "name_of_city_facility": "Lakewood Civic Centre",
+            "address": "1635 McKercher Dr",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located at front desk"
+        },
+        {
+            "PartitionKey": "37bf63ec-3258-4442-bfad-377286753089",
+            "RowKey": "b36aba10-95f8-44e8-bcea-dd891d80fbc0",
+            "Timestamp": "2019-11-22T14:48:16.4577516Z",
+            "entityid": "37bf63ec-3258-4442-bfad-377286753089",
+            "name_of_city_facility": "J. S. Wood Branch Library",
+            "address": "1801 Lansdowne Ave�",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located behind service desk"
+        },
+        {
+            "PartitionKey": "463dfbf1-2eb8-4ab4-813c-b33fc7a529a5",
+            "RowKey": "11e0ab6a-52bd-461b-a919-5fd404cae4a8",
+            "Timestamp": "2019-11-22T14:48:16.6279408Z",
+            "entityid": "463dfbf1-2eb8-4ab4-813c-b33fc7a529a5",
+            "name_of_city_facility": "Riversdale Pool",
+            "address": "822 Ave H S",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "First aid room, ask Cashier for help"
+        },
+        {
+            "PartitionKey": "4c6d8c6b-3f4e-48a5-b2f6-ec80678c10f7",
+            "RowKey": "86d7818f-b68d-4736-8630-2b6806407e71",
+            "Timestamp": "2019-11-22T14:48:16.7741983Z",
+            "entityid": "4c6d8c6b-3f4e-48a5-b2f6-ec80678c10f7",
+            "name_of_city_facility": "Water Treatment Plant",
+            "address": "1030 Ave H S",
+            "number_of_aed_units": "3",
+            "how_to_access_aed": "Not readily available to the general public"
+        },
+        {
+            "PartitionKey": "5614bf6c-e4c4-4af7-a362-3bd6667b2dd3",
+            "RowKey": "25e16384-ab1a-4ff2-bfa1-e39ae0e7c01d",
+            "Timestamp": "2019-11-22T14:48:16.2310377Z",
+            "entityid": "5614bf6c-e4c4-4af7-a362-3bd6667b2dd3",
+            "name_of_city_facility": "Holiday Park Golf Course",
+            "address": "1630 Avenue U & 11th St",
+            "number_of_aed_units": "2",
+            "how_to_access_aed": "Located in clubhouse and lounge, publically accessible"
+        },
+        {
+            "PartitionKey": "668780f0-7bdd-4306-b69e-c878411cff3c",
+            "RowKey": "75ce0a6a-846e-43be-a401-34d4268291ee",
+            "Timestamp": "2019-11-22T14:48:16.0320246Z",
+            "entityid": "668780f0-7bdd-4306-b69e-c878411cff3c",
+            "name_of_city_facility": "Civic Square East",
+            "address": "204 4th Ave N",
+            "number_of_aed_units": "3",
+            "how_to_access_aed": "Public access to 1 in the lobby"
+        },
+        {
+            "PartitionKey": "6798a333-9bf2-44eb-9461-96c1e46b4655",
+            "RowKey": "503dbc3f-e6d3-4af8-84db-4fd2cc723a02",
+            "Timestamp": "2019-11-22T14:48:16.1578653Z",
+            "entityid": "6798a333-9bf2-44eb-9461-96c1e46b4655",
+            "name_of_city_facility": "George Ward Pool",
+            "address": "1915 5th St E",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "First aid room, ask Cashier for help"
+        },
+        {
+            "PartitionKey": "67b159ed-14d2-4e5f-9b3c-9bfe468f4320",
+            "RowKey": "8fd48c9c-0025-4be1-9c7f-498432827b94",
+            "Timestamp": "2019-11-22T14:48:16.1191071Z",
+            "entityid": "67b159ed-14d2-4e5f-9b3c-9bfe468f4320",
+            "name_of_city_facility": "Harry Bailey Aquatic Centre",
+            "address": "1110 Idylwyld Drive",
+            "number_of_aed_units": "2",
+            "how_to_access_aed": "1 is located at the main reception desk, 1 is on the Competitive Pool deck"
+        },
+        {
+            "PartitionKey": "77e138ff-f6be-42ff-be93-3f59ffa664de",
+            "RowKey": "e81fbe63-0518-47d9-afd2-eebe25ae0501",
+            "Timestamp": "2019-11-22T14:48:15.8785998Z",
+            "entityid": "77e138ff-f6be-42ff-be93-3f59ffa664de",
+            "name_of_city_facility": "Archibald Arena",
+            "address": "1410 Windsor St",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located on wall to the right of the office door in the lobby, publically accessible"
+        },
+        {
+            "PartitionKey": "78701862-4d94-431c-a749-2053a1e1dfcd",
+            "RowKey": "6275aec4-82b5-4b93-be3e-75deaca48b27",
+            "Timestamp": "2019-11-22T14:48:16.8160929Z",
+            "entityid": "78701862-4d94-431c-a749-2053a1e1dfcd",
+            "name_of_city_facility": "Saskatoon Field House",
+            "address": "2020 College Dr",
+            "number_of_aed_units": "3",
+            "how_to_access_aed": "Public access to 1 is located in cabinet mounted on wall pillar in front of Admin. Office"
+        },
+        {
+            "PartitionKey": "7e325262-0c62-4c07-abf4-32c85d8497de",
+            "RowKey": "a9545e0b-9574-4b94-a85d-64e5e9dccf0f",
+            "Timestamp": "2019-11-22T14:48:15.8710169Z",
+            "entityid": "7e325262-0c62-4c07-abf4-32c85d8497de",
+            "name_of_city_facility": "Alice Turner Branch Library",
+            "address": "110 Nelson Road",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located behind service desk"
+        },
+        {
+            "PartitionKey": "7fe58289-c0b0-43b3-b9f0-ca1569dd2414",
+            "RowKey": "0da48570-38f7-426a-91c6-76435cfc8cc1",
+            "Timestamp": "2019-11-22T14:48:17.0513163Z",
+            "entityid": "7fe58289-c0b0-43b3-b9f0-ca1569dd2414",
+            "name_of_city_facility": "Waste Water Treatment Plant",
+            "address": "470 Whiteswan Dr",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Not readily available to the general public"
+        },
+        {
+            "PartitionKey": "8c29dfe4-8f2d-4603-86d8-94f3c4a58b82",
+            "RowKey": "cacbafd7-dea4-4731-a5f5-4349519ebba5",
+            "Timestamp": "2019-11-22T14:48:16.5928802Z",
+            "entityid": "8c29dfe4-8f2d-4603-86d8-94f3c4a58b82",
+            "name_of_city_facility": "Police Services",
+            "address": "76 25th St E",
+            "number_of_aed_units": "10",
+            "how_to_access_aed": "1 at the Service Centre in front lobby, 1 in the gymnasium off the service centre"
+        },
+        {
+            "PartitionKey": "905afe8d-d6bd-43f3-a1be-8a9bf86ee007",
+            "RowKey": "4d5d8427-459c-48e7-8eaa-17777a233f9c",
+            "Timestamp": "2019-11-22T14:48:17.0214324Z",
+            "entityid": "905afe8d-d6bd-43f3-a1be-8a9bf86ee007",
+            "name_of_city_facility": "Silverwood Golf Course",
+            "address": "3503 Kinnear Ave",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located in clubhouse, publically accessible"
+        },
+        {
+            "PartitionKey": "921814e3-47e7-49ff-a279-0555889c2cb6",
+            "RowKey": "80343f89-6277-4837-9e25-d5187982f6aa",
+            "Timestamp": "2019-11-22T14:48:16.6914742Z",
+            "entityid": "921814e3-47e7-49ff-a279-0555889c2cb6",
+            "name_of_city_facility": "Saskatoon Light & Power",
+            "address": "Foreman half tonne trucks",
+            "number_of_aed_units": "6",
+            "how_to_access_aed": "Trucks with AEDs have signs indicating machine inside"
+        },
+        {
+            "PartitionKey": "9597feb6-aec8-492d-aa97-5e43ee57356c",
+            "RowKey": "3a03e018-3c82-4063-8f5b-0abfeaac8402",
+            "Timestamp": "2019-11-22T14:48:16.4447392Z",
+            "entityid": "9597feb6-aec8-492d-aa97-5e43ee57356c",
+            "name_of_city_facility": "Mayfair Public Library",
+            "address": "602 33rd St W",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "On the wall at the entrance to the staff workroom"
+        },
+        {
+            "PartitionKey": "97a8a68d-4b91-4f40-8f47-131cf8dfab9d",
+            "RowKey": "f7c7c872-d5dd-4f6b-8786-45215de0ea9e",
+            "Timestamp": "2019-11-22T14:48:16.8361116Z",
+            "entityid": "97a8a68d-4b91-4f40-8f47-131cf8dfab9d",
+            "name_of_city_facility": "Vehicle & Equipment Services",
+            "address": "75 King St",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located at Bay 1 beside main shop office"
+        },
+        {
+            "PartitionKey": "a30c2b7c-0146-4302-a175-68646e3df9b2",
+            "RowKey": "29bcd480-51c7-4c6c-80b9-5be0291a32ce",
+            "Timestamp": "2019-11-22T14:48:15.7370664Z",
+            "entityid": "a30c2b7c-0146-4302-a175-68646e3df9b2",
+            "name_of_city_facility": "Clarence Downey Oval",
+            "address": "Dudley Street at Ave R (in Gordon Howe Complex)",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located in lobby close to west side entrance of main building, publically accessible"
+        },
+        {
+            "PartitionKey": "a4cad6db-2d09-494f-b655-0d71b5933a96",
+            "RowKey": "a12439be-d93b-4272-9561-1b2a150c6021",
+            "Timestamp": "2019-11-22T14:48:16.8631637Z",
+            "entityid": "a4cad6db-2d09-494f-b655-0d71b5933a96",
+            "name_of_city_facility": "Wildwood Golf Course",
+            "address": "4050 8th St E",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located in clubhouse, publically accessible"
+        },
+        {
+            "PartitionKey": "a6f65d04-1519-498a-ab93-b5416754e601",
+            "RowKey": "1c5af123-a0e6-4e99-bbb1-405c1742147e",
+            "Timestamp": "2019-11-22T14:48:16.2735768Z",
+            "entityid": "a6f65d04-1519-498a-ab93-b5416754e601",
+            "name_of_city_facility": "Inventory & Disposal Services",
+            "address": "202 Portage Ave",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Available during office hours to general public - need employee assistance"
+        },
+        {
+            "PartitionKey": "ac3ddadb-3244-4567-9a3b-37a6fa2e4278",
+            "RowKey": "5bd5d5d4-304a-4a07-9a70-afbca2ccce02",
+            "Timestamp": "2019-11-22T14:48:16.4552503Z",
+            "entityid": "ac3ddadb-3244-4567-9a3b-37a6fa2e4278",
+            "name_of_city_facility": "Mayfair Pool",
+            "address": "1025 Ave F N",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "First aid room, ask Cashier for help"
+        },
+        {
+            "PartitionKey": "ad7d1361-cb83-4a3a-b687-ab4ffc462a06",
+            "RowKey": "ced2ecef-4c79-4366-90ed-b457c83ca6b2",
+            "Timestamp": "2019-11-22T14:48:16.0894016Z",
+            "entityid": "ad7d1361-cb83-4a3a-b687-ab4ffc462a06",
+            "name_of_city_facility": "Electronic Shop City Yards",
+            "address": "#14 450 Ontario Ave",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Not readily available to the general public"
+        },
+        {
+            "PartitionKey": "b50dff89-788a-4765-94d5-f5fd7e61d1c3",
+            "RowKey": "aac03a22-051a-48d1-a95f-a332186b6bd7",
+            "Timestamp": "2019-11-22T14:48:16.6369225Z",
+            "entityid": "b50dff89-788a-4765-94d5-f5fd7e61d1c3",
+            "name_of_city_facility": "Rusty Macdonald Branch Library",
+            "address": "225 Primrose Dr",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located behind service desk"
+        },
+        {
+            "PartitionKey": "b76b053a-db73-4650-b039-156e35af79fc",
+            "RowKey": "31f33807-ec05-476c-8781-01b68d764045",
+            "Timestamp": "2019-11-22T14:48:16.5184877Z",
+            "entityid": "b76b053a-db73-4650-b039-156e35af79fc",
+            "name_of_city_facility": "Potash Corp. Playland",
+            "address": "945 Spadina Cres",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located at ticket booth"
+        },
+        {
+            "PartitionKey": "c3bae790-d2c2-4861-bbba-f015e6bcc2e5",
+            "RowKey": "50932aec-c83e-43cc-b49e-aa623cc6d8e5",
+            "Timestamp": "2019-11-22T14:48:16.7053871Z",
+            "entityid": "c3bae790-d2c2-4861-bbba-f015e6bcc2e5",
+            "name_of_city_facility": "Saskatoon Forestry Farm Park & Zoo",
+            "address": "1903 Forestry Farm Park Dr",
+            "number_of_aed_units": "3",
+            "how_to_access_aed": "1 in the children's zoo building, 1 in the Affinity Learning Centre, and ask a staff member anywhere on site"
+        },
+        {
+            "PartitionKey": "cf64debf-c58d-4b3e-a9d6-f75f39ca3f48",
+            "RowKey": "6a993a29-dddd-4b5c-9ecf-0e37d4b3e955",
+            "Timestamp": "2019-11-22T14:48:16.1796369Z",
+            "entityid": "cf64debf-c58d-4b3e-a9d6-f75f39ca3f48",
+            "name_of_city_facility": "City Hall",
+            "address": "222 3rd Ave N",
+            "number_of_aed_units": "4",
+            "how_to_access_aed": "Located at security desk in main lobby"
+        },
+        {
+            "PartitionKey": "d816212a-aff1-4839-96b6-3f6bf3a46a9a",
+            "RowKey": "5384017d-ce37-4afe-8d6d-4200ddee6dbd",
+            "Timestamp": "2019-11-22T14:48:16.6490805Z",
+            "entityid": "d816212a-aff1-4839-96b6-3f6bf3a46a9a",
+            "name_of_city_facility": "Purchasing Services",
+            "address": "222 Cardinal Cres",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Available during office hours to general public - need employee assistance"
+        },
+        {
+            "PartitionKey": "d9f8f35b-2acd-4056-ab44-c2dc57db5bae",
+            "RowKey": "fce0e6d6-4728-4b0e-9092-09c022ead80a",
+            "Timestamp": "2019-11-22T14:48:16.4038487Z",
+            "entityid": "d9f8f35b-2acd-4056-ab44-c2dc57db5bae",
+            "name_of_city_facility": "Landfill",
+            "address": "Valley Road, south of 11th St",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Not readily available to the general public; main building - need employee assistance"
+        },
+        {
+            "PartitionKey": "dc6751c7-c91e-4faf-99d8-6c6558dfb1df",
+            "RowKey": "3b07b6dc-eb74-48d9-bd7b-a6923e342f14",
+            "Timestamp": "2019-11-22T14:48:16.6956559Z",
+            "entityid": "dc6751c7-c91e-4faf-99d8-6c6558dfb1df",
+            "name_of_city_facility": "Public Works, City Yards, Stores",
+            "address": "330 Ontario Ave",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Not readily available to the general public"
+        },
+        {
+            "PartitionKey": "ddd6cf2d-f2d7-4250-a772-4d0a00938b4e",
+            "RowKey": "286439a8-604b-4a5d-a7bf-ad541681ce7f",
+            "Timestamp": "2019-11-22T14:48:15.6229578Z",
+            "entityid": "ddd6cf2d-f2d7-4250-a772-4d0a00938b4e",
+            "name_of_city_facility": "ACT Arena",
+            "address": "107 105 St",
+            "number_of_aed_units": "2",
+            "how_to_access_aed": "1 on north wall by Ladies washroom, 1 in the Figure skating rink on the east wall beside the music room"
+        },
+        {
+            "PartitionKey": "e0b3e0a3-dfaf-4e98-bcf8-0cec40222533",
+            "RowKey": "dbef9f32-ef40-4fbb-9091-d1c9354c4b86",
+            "Timestamp": "2019-11-22T14:48:16.3957217Z",
+            "entityid": "e0b3e0a3-dfaf-4e98-bcf8-0cec40222533",
+            "name_of_city_facility": "City Impound",
+            "address": "150 Jonathon Ave",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located at the main desk of the Impound Lot"
+        },
+        {
+            "PartitionKey": "e54eef73-74ea-46fe-b4f1-b44de6a77802",
+            "RowKey": "9786fff9-9567-417a-879a-746fbc58e659",
+            "Timestamp": "2019-11-22T14:48:16.3156164Z",
+            "entityid": "e54eef73-74ea-46fe-b4f1-b44de6a77802",
+            "name_of_city_facility": "Kiwanis Park North (washroom facility)",
+            "address": "611 Spadina Crescent E",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Available only during free outdoor fitness programs in the summer"
+        },
+        {
+            "PartitionKey": "e77324cd-e895-4672-b4a4-da214080558b",
+            "RowKey": "9de95ed4-c415-4d73-92af-c6390a45ec45",
+            "Timestamp": "2019-11-22T14:48:16.118931Z",
+            "entityid": "e77324cd-e895-4672-b4a4-da214080558b",
+            "name_of_city_facility": "Gordon Howe Campground",
+            "address": "1640 Avenue P South",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located in office area in the main office building  available 8am -10pm"
+        },
+        {
+            "PartitionKey": "ecc8bdfd-dd5d-4a95-925d-5e8e702ca3b9",
+            "RowKey": "36d8d49d-0d7f-4043-b167-225c8a438b8f",
+            "Timestamp": "2019-11-22T14:48:15.8997237Z",
+            "entityid": "ecc8bdfd-dd5d-4a95-925d-5e8e702ca3b9",
+            "name_of_city_facility": "Carlyle King Branch Library",
+            "address": "3130 Laurier Dr",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located behind service desk"
+        },
+        {
+            "PartitionKey": "fafad796-42e2-4380-8688-df827c93cb65",
+            "RowKey": "4538a616-fe69-43d6-a3db-201c1c42313d",
+            "Timestamp": "2019-11-22T14:48:16.3024251Z",
+            "entityid": "fafad796-42e2-4380-8688-df827c93cb65",
+            "name_of_city_facility": "John Deere Building",
+            "address": "330 Ontario Ave",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Not readily available to the general public"
+        },
+        {
+            "PartitionKey": "fc1ee95f-0f1c-4e4a-b461-9bbd5abe040f",
+            "RowKey": "9f5faaeb-3ed2-4a6d-a6fc-d4256d8f21e2",
+            "Timestamp": "2019-11-22T14:48:15.9212416Z",
+            "entityid": "fc1ee95f-0f1c-4e4a-b461-9bbd5abe040f",
+            "name_of_city_facility": "Cosmo Civic Centre",
+            "address": "3130 Laurier Dr",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located in lobby by main office, publically accessible"
+        },
+        {
+            "PartitionKey": "fddcc05e-6d4d-4405-9584-2055023ddca2",
+            "RowKey": "954a2af7-67a5-4a04-a803-f8f3acee8882",
+            "Timestamp": "2019-11-22T14:48:16.5326443Z",
+            "entityid": "fddcc05e-6d4d-4405-9584-2055023ddca2",
+            "name_of_city_facility": "Lions Arena",
+            "address": "2205 McEown Ave",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Located on south wall in the middle of the arena, publically accessible"
+        },
+        {
+            "PartitionKey": "ff66ad3b-8289-4077-8f9c-5e90b0bd9edc",
+            "RowKey": "e089aa8c-b604-4034-9b40-fecd1c3681cc",
+            "Timestamp": "2019-11-22T14:48:16.7788786Z",
+            "entityid": "ff66ad3b-8289-4077-8f9c-5e90b0bd9edc",
+            "name_of_city_facility": "Sign & Paint Shop",
+            "address": "450 Ontario Ave",
+            "number_of_aed_units": "1",
+            "how_to_access_aed": "Not readily available to the general public"
+        }
+    ]
+}
